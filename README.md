@@ -9,6 +9,6 @@ div
 mult
 ```
 ![Calculator Exp]
-(/assets/im.jpg)
+(https://github.com/aliaabuzaid/calculator/tree/master/assets/im.jpg)
 ![Calculator Exp]
-(/assets/im2.jpg)
+(https://github.com/aliaabuzaid/calculator/tree/master/assets/im2.jpg)
